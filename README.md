@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/oyariwake/Space%20Game%20-%20web/_apis/build/status/oyariwakerelation1.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/oyariwake/Space%20Game%20-%20web/_build/latest?definitionId=9&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
