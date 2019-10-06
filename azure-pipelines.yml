@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 pool:
   vmImage: 'Ubuntu-16.04'
   demands:
